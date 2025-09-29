@@ -6,7 +6,7 @@ The service utilizes a sophisticated Natural Language Processing (NLP) pipeline 
 
 This API serves as the intelligent backend for mobile or web applications, providing a scalable and efficient method for creating contextual and engaging learning content on demand.
 
-## 🚀 NLP Pipeline Highlights
+## 💡 NLP Pipeline Highlights
 
 The API executes a three-stage NLP pipeline upon receiving a subject query:
 
